@@ -1,0 +1,8 @@
+C:\Users\deepti.dwivedi\source\repos\BankingSystem\obj\Debug\BankingSystem.csproj.AssemblyReference.cache
+C:\Users\deepti.dwivedi\source\repos\BankingSystem\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\deepti.dwivedi\source\repos\BankingSystem\bin\Debug\BankingSystem.exe.config
+C:\Users\deepti.dwivedi\source\repos\BankingSystem\bin\Debug\BankingSystem.exe
+C:\Users\deepti.dwivedi\source\repos\BankingSystem\bin\Debug\BankingSystem.pdb
+C:\Users\deepti.dwivedi\source\repos\BankingSystem\obj\Debug\BankingSystem.exe
+C:\Users\deepti.dwivedi\source\repos\BankingSystem\obj\Debug\BankingSystem.pdb
+C:\Users\deepti.dwivedi\source\repos\BankingSystem\obj\Debug\BankingSystem.exe.config
